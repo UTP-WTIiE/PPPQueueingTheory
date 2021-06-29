@@ -16,7 +16,7 @@ namespace PPPQueuesSimulation
             // This code allows to perform Pentose Phosphate pathway simulation
             // or find Michaelis-Menten constants used in PPP simulation
 
-            string output_folder_path = @"C:\Users\Praca\Desktop\PPP Tests"; //path to folder where outputs should be stored
+            string output_folder_path = @"[Type path to output folder here]"; //path to folder where outputs should be stored
 
             // Modify the object below to set new starting points of PPP simulation
             PPPCellState start_products = PPPCellState.Default();
