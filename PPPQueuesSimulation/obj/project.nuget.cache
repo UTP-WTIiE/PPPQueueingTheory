@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hpyn9eYFKPT894vfxejbGLcRIjh1J8A8b4riJJybf2sn4LT/g3zGPmVUkjndPww9Dx1D9D8YFQLCHlwL8JtIwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Praca\\Desktop\\PPP Clean code\\PPPQueuesSimulation\\PPPQueuesSimulation\\PPPQueuesSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praca\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Praca\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

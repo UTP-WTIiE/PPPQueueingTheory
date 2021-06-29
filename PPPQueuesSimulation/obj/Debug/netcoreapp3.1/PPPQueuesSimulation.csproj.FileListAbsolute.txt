@@ -1,0 +1,30 @@
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.csprojAssemblyReference.cache
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.AssemblyInfoInputs.cache
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.AssemblyInfo.cs
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.exe
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.deps.json
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.runtimeconfig.json
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.runtimeconfig.dev.json
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.dll
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.pdb
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.csproj.CopyComplete
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.dll
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.pdb
+C:\Users\Praca\source\repos\PPPQueueingTheory\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.genruntimeconfig.cache
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.exe
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.deps.json
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.runtimeconfig.json
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.runtimeconfig.dev.json
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.dll
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\PPPQueuesSimulation.pdb
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.csprojAssemblyReference.cache
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.AssemblyInfoInputs.cache
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.AssemblyInfo.cs
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.csproj.CopyComplete
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.dll
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.pdb
+C:\Users\Praca\Desktop\PPP Clean code\PPPQueuesSimulation\PPPQueuesSimulation\obj\Debug\netcoreapp3.1\PPPQueuesSimulation.genruntimeconfig.cache
